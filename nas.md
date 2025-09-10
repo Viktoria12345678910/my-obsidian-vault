@@ -1,0 +1,1 @@
+Your files are stored on the NAS server and can be synchronized, or automatically kept up-to-date, on all of your devices. This service needs to always be online so the NAS should always be on. If you are using your NAS for web hosting like I am, you need to keep it online 24/7
