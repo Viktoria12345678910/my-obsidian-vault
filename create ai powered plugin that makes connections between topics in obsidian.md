@@ -1,0 +1,1 @@
+https://docs.obsidian.md/Plugins/Getting+started/Build+a+plugin
