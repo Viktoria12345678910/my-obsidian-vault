@@ -1,0 +1,1 @@
+I know that you didn't say anything about the USSR, but i still want to spread awareness about it. First my credentials to speak on this are: my parents were born there in like 1970's and i have to deal with consequences. Also for context I'm Ukrainian. For stater it was a soviet union which is misling since you would think that if it's a union you can leave if you wi
