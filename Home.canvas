@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"058298dff71e84aa","type":"file","file":"side quest(s).md","x":-720,"y":-460,"width":620,"height":900},
+		{"id":"099a657de5e7fa47","type":"file","file":"images/pfp4.png","x":-260,"y":-60,"width":400,"height":400},
+		{"id":"216a1fb0b7eee6d4","type":"file","file":"images/flora.gif","x":-35,"y":-469,"width":388,"height":388}
+	],
+	"edges":[]
+}
