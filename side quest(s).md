@@ -1,7 +1,7 @@
 - [x] Виконати 2 варіанти нмт з математики 
 - [ ] [[create personal music theme]]
 - [ ] [[create ai powered plugin that makes connections between topics in obsidian]] 
-- [ ]  Find a penpal
+- [ ]  [[Find a penpal]]
 1. [[погуляти]]
 2. [[фіча де курсор змінює заствку навколо нього]]
 3. [[IPA]]
