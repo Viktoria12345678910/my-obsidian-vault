@@ -2,7 +2,10 @@
 	"nodes":[
 		{"id":"058298dff71e84aa","type":"file","file":"side quest(s).md","x":-720,"y":-460,"width":620,"height":900},
 		{"id":"099a657de5e7fa47","type":"file","file":"images/pfp4.png","x":-260,"y":-60,"width":400,"height":400},
-		{"id":"216a1fb0b7eee6d4","type":"file","file":"images/flora.gif","x":-35,"y":-469,"width":388,"height":388}
+		{"id":"216a1fb0b7eee6d4","type":"file","file":"images/flora.gif","x":488,"y":48,"width":388,"height":388},
+		{"id":"f1285591c6f70d95","x":-104,"y":-712,"width":1145,"height":584,"type":"file","file":"Розклад.md"},
+		{"id":"cc25b9578c6d2677","x":1242,"y":-437,"width":400,"height":400,"type":"file","file":"Розклад дзвінків.md"},
+		{"id":"2f7ba6c7fbe9baa2","x":-1328,"y":360,"width":1718,"height":512,"type":"file","file":"Предмети.md"}
 	],
 	"edges":[]
 }
