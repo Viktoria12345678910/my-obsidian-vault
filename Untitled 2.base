@@ -1,0 +1,8 @@
+views:
+  - type: table
+    name: Table
+  - type: table
+    name: 1001 rejections
+    order:
+      - file.name
+    rowHeight: medium
